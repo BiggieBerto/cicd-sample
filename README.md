@@ -1,1 +1,2 @@
-# cicd-sample
+# infrastructure-automation
+cicd-sample-app
